@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/sequence/OneTo200.java" line="815" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00c157f6-2f71-48be-af8a-9ea189f196b4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1019517423">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="69" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="69" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="html" value="29" />
+          <entry key="iml" value="5" />
+          <entry key="java" value="136331" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="29" />
+          <entry key="IDEA_MODULE" value="5" />
+          <entry key="JAVA" value="136331" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sequence/SixTo700.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Interview5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#Solution5_2#0" />
+                <element signature="class#Solution5_3#0" />
+                <element signature="method#mergeSort#0;class#Solution5_3#0" />
+                <element signature="class#Solution5_5#0" />
+                <element signature="class#Solution5_6#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sequence/ThreeTo400.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="194" column="13" lean-forward="true" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
+              <folding>
+                <element signature="method#kthSmallest#0;class#ThreeTo400#0" />
+                <element signature="method#search#0;class#ThreeTo400#0" />
+                <element signature="method#kSmallestPairs#0;class#ThreeTo400#0" />
+                <element signature="method#addPoint#0;class#ThreeTo400#0" />
+                <element signature="method#kSmallestPairs2#0;class#ThreeTo400#0" />
+                <element signature="method#maxProfit_with_cool#0;class#ThreeTo400#0" />
+                <element signature="method#findMinHeightTrees#0;class#ThreeTo400#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sequence/FourTo500.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3806">
+              <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/周赛/no165.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#tictactoe#0;class#no165#0" />
+                <element signature="method#numOfBurgers#0;class#no165#0" />
+                <element signature="method#countSquares#0;class#no165#0" />
+                <element signature="method#palindromePartition2#0;class#no165#0" />
+                <element signature="method#palindromePartition#0;class#no165#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/周赛/no163.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="109" column="33" lean-forward="true" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#shiftGrid#0;class#no163#0" />
+                <element signature="class#TreeNode#0;class#no163#0" />
+                <element signature="class#FindElements#0;class#no163#0" />
+                <element signature="e#1548#1549#0" expanded="true" />
+                <element signature="e#1602#1603#0" expanded="true" />
+                <element signature="method#maxSumDivThree#0;class#no163#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>comp</find>
+      <find>Test</find>
+      <find>Node</find>
+      <find>Pair</find>
+      <find>union</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/InterviewPart2.java" />
+        <option value="$PROJECT_DIR$/src/Interview.java" />
+        <option value="$PROJECT_DIR$/src/InterviewPart3.java" />
+        <option value="$PROJECT_DIR$/src/InterviewPart4.java" />
+        <option value="$PROJECT_DIR$/src/Interview6.java" />
+        <option value="$PROJECT_DIR$/src/Interview7.java" />
+        <option value="$PROJECT_DIR$/src/Interview8.java" />
+        <option value="$PROJECT_DIR$/src/Interview9.java" />
+        <option value="$PROJECT_DIR$/src/Interview11.java" />
+        <option value="$PROJECT_DIR$/src/Test1.java" />
+        <option value="$PROJECT_DIR$/src/Interview10.java" />
+        <option value="$PROJECT_DIR$/src/tengxun/no1.java" />
+        <option value="$PROJECT_DIR$/src/tengxun/first_level.java" />
+        <option value="$PROJECT_DIR$/src/easy_media_high_level/first_level.java" />
+        <option value="$PROJECT_DIR$/src/easy_media_high_level/media_level.java" />
+        <option value="$PROJECT_DIR$/src/Interview5.java" />
+        <option value="$PROJECT_DIR$/src/sequence/SixTo700.java" />
+        <option value="$PROJECT_DIR$/src/easy_media_high_level/easy_level.java" />
+        <option value="$PROJECT_DIR$/src/sequence/OneTo100.java" />
+        <option value="$PROJECT_DIR$/src/sequence/ZeroTo100.java" />
+        <option value="$PROJECT_DIR$/leetcode.iml" />
+        <option value="$PROJECT_DIR$/src/sequence/FourTo500.java" />
+        <option value="$PROJECT_DIR$/src/sequence/OneTo200.java" />
+        <option value="$PROJECT_DIR$/src/sequence/SevenTo800.java" />
+        <option value="$PROJECT_DIR$/src/sequence/FiveTo600.java" />
+        <option value="$PROJECT_DIR$/src/bi_shi.java" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/sequence/TwoTo300.java" />
+        <option value="$PROJECT_DIR$/src/sequence/ThreeTo400.java" />
+        <option value="$PROJECT_DIR$/src/周赛/no164.java" />
+        <option value="$PROJECT_DIR$/src/周赛/no165.java" />
+        <option value="$PROJECT_DIR$/src/周赛/no163.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1967" />
+    <option name="y" value="5" />
+    <option name="width" value="1821" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Stack.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576070133931" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/clocksync-master/GA_Simulator/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.no163">
+    <configuration name="OneTo200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="sequence.OneTo200" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeTo400" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sequence.ThreeTo400" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoTo300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sequence.TwoTo300" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="no163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛.no163" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="no164" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="周赛.no164" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreeTo400" />
+      <item itemvalue="Application.OneTo200" />
+      <item itemvalue="Application.TwoTo300" />
+      <item itemvalue="Application.no164" />
+      <item itemvalue="Application.no163" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.no163" />
+        <item itemvalue="Application.no164" />
+        <item itemvalue="Application.ThreeTo400" />
+        <item itemvalue="Application.TwoTo300" />
+        <item itemvalue="Application.OneTo200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00c157f6-2f71-48be-af8a-9ea189f196b4" name="Default Changelist" comment="" />
+      <created>1557117257836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557117257836</updated>
+      <workItem from="1557117261846" duration="137274000" />
+      <workItem from="1558059915472" duration="85691000" />
+      <workItem from="1564377297243" duration="3038000" />
+      <workItem from="1564664002079" duration="206774000" />
+      <workItem from="1567925463377" duration="74678000" />
+      <workItem from="1568898104913" duration="37392000" />
+      <workItem from="1570712218480" duration="35958000" />
+      <workItem from="1571215266009" duration="75416000" />
+      <workItem from="1573201381005" duration="660000" />
+      <workItem from="1573202286160" duration="591000" />
+      <workItem from="1574587849896" duration="48935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="706407000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="44" y="0" width="1821" height="1040" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19136854" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18191841" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.103638366" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.34669557" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPart2.java</url>
+          <line>244</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPart2.java</url>
+          <line>323</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPart2.java</url>
+          <line>346</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPart3.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPart3.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPart3.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPart4.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPart4.java</url>
+          <line>253</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewPart4.java</url>
+          <line>317</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview8.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview8.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview8.java</url>
+          <line>207</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview9.java</url>
+          <line>250</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview10.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview10.java</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview10.java</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview11.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview11.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interview11.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/easy_level.java</url>
+          <line>236</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/easy_level.java</url>
+          <line>281</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/easy_level.java</url>
+          <line>296</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/easy_level.java</url>
+          <line>321</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/easy_level.java</url>
+          <line>932</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/media_level.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/media_level.java</url>
+          <line>290</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/media_level.java</url>
+          <line>618</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/media_level.java</url>
+          <line>968</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/media_level.java</url>
+          <line>661</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/media_level.java</url>
+          <line>832</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy_media_high_level/media_level.java</url>
+          <line>848</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bi_shi.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bi_shi.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bi_shi.java</url>
+          <line>309</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/ThreeTo400.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/SevenTo800.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/ZeroTo100.java</url>
+          <line>811</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/ZeroTo100.java</url>
+          <line>1012</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/OneTo200.java</url>
+          <line>550</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/OneTo200.java</url>
+          <line>811</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/OneTo200.java</url>
+          <line>892</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/TwoTo300.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/TwoTo300.java</url>
+          <line>262</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/TwoTo300.java</url>
+          <line>303</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/ThreeTo400.java</url>
+          <line>149</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sequence/ThreeTo400.java</url>
+          <line>186</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/周赛/no164.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Interview8.java</url>
+          <line>167</line>
+          <properties class="Solution8_5" method="countSmaller">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/InterviewPart2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#Solution2_8#0" />
+            <element signature="class#Solution2_8#0" />
+            <element signature="class#Solution2_7#0" />
+            <element signature="class#Solution2_6#0" />
+            <element signature="method#isPalindrome#0;class#Solution2_1#0" />
+            <element signature="class#Solution2_2#0" />
+            <element signature="method#partition#0;class#Solution2_2#0" />
+            <element signature="method#isPalindrome#0;class#Solution2_2#0" />
+            <element signature="class#Solution2_3#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InterviewPart3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="258" column="18" lean-forward="true" selection-start-line="255" selection-end-line="268" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Solution3_1#0" />
+            <element signature="class#Solution3_2#0" />
+            <element signature="class#Solution3_3#0" />
+            <element signature="class#Solution3_4#0" />
+            <element signature="n#!!doc;n#Solution3_5#0" />
+            <element signature="class#Solution3_5#0" />
+            <element signature="class#Solution3_7#0" />
+            <element signature="class#Solution3_8#0" />
+            <element signature="class#Solution3_9#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Solution1#0" />
+            <element signature="class#Solution2#0" />
+            <element signature="method#searchMatrix#0;class#Solution3#0" />
+            <element signature="class#Solution4#0" />
+            <element signature="class#Solution5#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="479" selection-start-line="479" selection-end-line="479" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interview8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="236" column="5" lean-forward="true" selection-start-line="236" selection-start-column="5" selection-end-line="236" selection-end-column="5" />
+          <folding>
+            <element signature="class#Solution8_1#0" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="class#Solution8_2#0" />
+            <element signature="class#Solution8_3#0" />
+            <element signature="class#Solution8_4#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interview6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interview7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="239" column="11" lean-forward="true" selection-start-line="239" selection-start-column="3" selection-end-line="239" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Solution7_1#0" />
+            <element signature="class#Solution7_2#0" />
+            <element signature="method#lowestCommonAncestor#0;class#Solution7_2#0" />
+            <element signature="class#Code#0" />
+            <element signature="method#deserialize#0;class#Code#0" />
+            <element signature="method#serialize2#0;class#Code#0" />
+            <element signature="method#treeDepth#0;class#Code#0" />
+            <element signature="method#deserialize2#0;class#Code#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interview11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Solution11_2#0" />
+            <element signature="class#Solution11_3#0" />
+            <element signature="class#Solution11_4#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interview10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="309" column="9" selection-start-line="309" selection-start-column="4" selection-end-line="309" selection-end-column="44" />
+          <folding>
+            <element signature="class#Solution10_1#0" />
+            <element signature="method#ladderLength#0;class#Solution10_1#0" />
+            <element signature="method#ladderLength2#0;class#Solution10_1#0" />
+            <element signature="class#Solution10_2#0" />
+            <element signature="method#findOrder#0;class#Solution10_4#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test1.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interview9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="346" column="9" selection-start-line="345" selection-start-column="3" selection-end-line="351" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Solution9_1#0" />
+            <element signature="class#Solution9_2#0" />
+            <element signature="class#Solution9_3#0" />
+            <element signature="method#longestConsecutive#0;class#Solution9_3#0" />
+            <element signature="method#longestConsecutive3#0;class#Solution9_3#0" />
+            <element signature="class#Solution9_4#0" />
+            <element signature="class#Solution9_5#0" />
+            <element signature="class#Solution9_6#0" />
+            <element signature="class#Solution9_7#0" />
+            <element signature="class#Solution9_8#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy_media_high_level/easy_level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16948">
+          <caret line="904" column="38" selection-start-line="904" selection-start-column="38" selection-end-line="904" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy_media_high_level/media_level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9747">
+          <caret line="956" column="6" selection-start-line="956" selection-start-column="3" selection-end-line="956" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#201#1184#0" />
+            <element signature="e#1190#2423#0" />
+            <element signature="e#2429#3144#0" />
+            <element signature="e#3150#3834#0" />
+            <element signature="e#3839#4334#0" />
+            <element signature="e#4370#5157#0" />
+            <element signature="e#5162#5663#0" />
+            <element signature="e#5669#6009#0" />
+            <element signature="e#6194#7246#0" />
+            <element signature="e#7455#7955#0" />
+            <element signature="e#7961#8943#0" />
+            <element signature="e#9026#9027#0" expanded="true" />
+            <element signature="e#9095#9096#0" expanded="true" />
+            <element signature="e#9101#9734#0" />
+            <element signature="e#10074#10661#0" />
+            <element signature="e#10984#12157#0" />
+            <element signature="e#12163#12412#0" />
+            <element signature="e#12417#13058#0" />
+            <element signature="e#13064#13408#0" />
+            <element signature="e#13413#13779#0" />
+            <element signature="e#13785#14174#0" />
+            <element signature="e#14179#14743#0" />
+            <element signature="e#14749#15011#0" />
+            <element signature="e#15016#15326#0" />
+            <element signature="e#15332#15636#0" />
+            <element signature="e#15641#16005#0" />
+            <element signature="e#16011#16765#0" />
+            <element signature="e#16818#17426#0" />
+            <element signature="e#17432#17877#0" />
+            <element signature="e#18016#18886#0" />
+            <element signature="e#19893#19894#0" expanded="true" />
+            <element signature="e#19951#19952#0" expanded="true" />
+            <element signature="e#28160#28161#0" expanded="true" />
+            <element signature="e#28184#28185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.base/javafx/util/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="3106" selection-start-line="3106" selection-end-line="3106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InterviewPart4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="463" column="49" lean-forward="true" selection-start-line="463" selection-start-column="49" selection-end-line="463" selection-end-column="49" />
+          <folding>
+            <element signature="class#MinStack#0" />
+            <element signature="class#Solution4_2#0" />
+            <element signature="class#MedianFinder#0" />
+            <element signature="class#Solution4_4#0" />
+            <element signature="method#topKFrequent#0;class#Solution4_5#0" />
+            <element signature="class#Solution4_6#0" />
+            <element signature="class#Solution4_7#0" />
+            <element signature="method#calculate#0;class#Solution4_7#0" />
+            <element signature="class#NestedInteger#0" />
+            <element signature="class#NestedIterator#0" />
+            <element signature="class#Solution4_8#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sequence/ZeroTo100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21472">
+          <caret line="976" column="23" selection-start-line="976" selection-start-column="23" selection-end-line="976" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="73" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sequence/SixTo700.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="87" column="5" lean-forward="true" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sequence/SevenTo800.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#dominantIndex#0;class#SevenTo800#0" />
+            <element signature="method#pyramidTransition#0;class#SevenTo800#0" />
+            <element signature="method#dfs#0;class#SevenTo800#0" />
+            <element signature="method#splitListToParts#0;class#SevenTo800#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bi_shi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="533" column="22" selection-start-line="533" selection-start-column="22" selection-end-line="533" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getMax#0;class#bi_shi#0" />
+            <element signature="method#getIndex#0;class#bi_shi#0" />
+            <element signature="method#getMax2#0;class#bi_shi#0" />
+            <element signature="method#getIndex2#0;class#bi_shi#0" />
+            <element signature="class#Node#0" />
+            <element signature="class#MyLinkedList#0" />
+            <element signature="class#Solution#0" />
+            <element signature="e#11945#12626#0" />
+            <element signature="e#12632#13153#0" />
+            <element signature="e#13159#13544#0" />
+            <element signature="e#13550#13856#0" />
+            <element signature="e#13971#14385#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sequence/FiveTo600.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="439" selection-start-line="439" selection-end-line="439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sequence/ThreeTo400.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="194" column="13" lean-forward="true" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
+          <folding>
+            <element signature="method#kthSmallest#0;class#ThreeTo400#0" />
+            <element signature="method#search#0;class#ThreeTo400#0" />
+            <element signature="method#kSmallestPairs#0;class#ThreeTo400#0" />
+            <element signature="method#addPoint#0;class#ThreeTo400#0" />
+            <element signature="method#kSmallestPairs2#0;class#ThreeTo400#0" />
+            <element signature="method#maxProfit_with_cool#0;class#ThreeTo400#0" />
+            <element signature="method#findMinHeightTrees#0;class#ThreeTo400#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sequence/TwoTo300.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="324" column="11" lean-forward="true" selection-start-line="323" selection-start-column="3" selection-end-line="332" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#maximalSquare#0;class#TwoTo300#0" />
+            <element signature="method#combinationSum3#0;class#TwoTo300#0" />
+            <element signature="method#dfs#0;class#TwoTo300#0" />
+            <element signature="method#combinationSum#0;class#TwoTo300#0" />
+            <element signature="method#dfs2#0;class#TwoTo300#0" />
+            <element signature="method#combinationSum2#0;class#TwoTo300#0" />
+            <element signature="method#dfs3#0;class#TwoTo300#0" />
+            <element signature="method#rangeBitwiseAnd#0;class#TwoTo300#0" />
+            <element signature="method#removeElements#0;class#TwoTo300#0" />
+            <element signature="method#minSubArrayLen#0;class#TwoTo300#0" />
+            <element signature="method#myRob3#0;class#TwoTo300#0" />
+            <element signature="method#containsNearbyAlmostDuplicate#0;class#TwoTo300#0" />
+            <element signature="method#countNodes#0;class#TwoTo300#0" />
+            <element signature="method#computeArea#0;class#TwoTo300#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interview5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Solution5_2#0" />
+            <element signature="class#Solution5_3#0" />
+            <element signature="method#mergeSort#0;class#Solution5_3#0" />
+            <element signature="class#Solution5_5#0" />
+            <element signature="class#Solution5_6#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/周赛/no164.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#countServers#0;class#no164#0" />
+            <element signature="method#countServers#0;class#no164#0" />
+            <element signature="method#flooding#0;class#no164#0" />
+            <element signature="method#suggestedProducts#0;class#no164#0" />
+            <element signature="method#numWays#0;class#no164#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/周赛/no165.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#tictactoe#0;class#no165#0" />
+            <element signature="method#numOfBurgers#0;class#no165#0" />
+            <element signature="method#countSquares#0;class#no165#0" />
+            <element signature="method#palindromePartition2#0;class#no165#0" />
+            <element signature="method#palindromePartition#0;class#no165#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sequence/OneTo200.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="977" column="14" lean-forward="true" selection-start-line="976" selection-start-column="4" selection-end-line="982" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1070#1540#0" />
+            <element signature="e#1546#2575#0" />
+            <element signature="e#4548#5302#0" />
+            <element signature="e#5307#5716#0" />
+            <element signature="e#5721#7848#0" />
+            <element signature="e#7853#8486#0" />
+            <element signature="e#8494#8827#0" />
+            <element signature="e#8833#9456#0" />
+            <element signature="e#9462#9742#0" />
+            <element signature="e#9750#9969#0" />
+            <element signature="e#9974#10645#0" />
+            <element signature="e#10650#11873#0" />
+            <element signature="e#15055#15540#0" />
+            <element signature="e#16621#16922#0" />
+            <element signature="e#16929#17914#0" />
+            <element signature="e#17922#18447#0" />
+            <element signature="e#18454#19500#0" />
+            <element signature="e#19577#20425#0" />
+            <element signature="e#20430#21403#0" />
+            <element signature="e#21409#21530#0" />
+            <element signature="e#21535#22263#0" />
+            <element signature="e#22268#22542#0" />
+            <element signature="e#22548#24795#0" />
+            <element signature="e#24018#24129#0" />
+            <element signature="e#24138#24315#0" />
+            <element signature="e#24324#24518#0" />
+            <element signature="e#24527#24789#0" />
+            <element signature="e#24801#25211#0" />
+            <element signature="e#25216#25750#0" />
+            <element signature="e#25756#26224#0" />
+            <element signature="e#26231#26731#0" />
+            <element signature="e#26737#27255#0" />
+            <element signature="e#27261#27839#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sequence/FourTo500.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3806">
+          <caret line="178" lean-forward="true" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/周赛/no163.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="109" column="33" lean-forward="true" selection-start-line="109" selection-start-column="33" selection-end-line="109" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#shiftGrid#0;class#no163#0" />
+            <element signature="class#TreeNode#0;class#no163#0" />
+            <element signature="class#FindElements#0;class#no163#0" />
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1602#1603#0" expanded="true" />
+            <element signature="method#maxSumDivThree#0;class#no163#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
